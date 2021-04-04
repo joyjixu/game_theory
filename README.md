@@ -1,2 +1,3 @@
 # game_theory
-## Python code for Assignment 1
+## Python code for Assignments 1 and 2
+
